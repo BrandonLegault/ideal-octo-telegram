@@ -1,0 +1,21 @@
+Current Players:
+        Name: Jonas Valenciunas
+        Age: 26
+        Salary: 4.66m
+        Job: Center
+
+        Name: Kyle Lowry
+        Age: 32
+        Salary: 28.7m
+        Job: Point Guard
+
+        Name: Demar DeRozan
+        Age: 28
+        Salary: 26.54m
+        Job: Shooting Guard
+
+        Name: Jakob Poeltl
+        Age: 22
+        Salary: 2.704m
+        Job: Center
+
